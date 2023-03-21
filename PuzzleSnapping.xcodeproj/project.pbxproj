@@ -11,6 +11,7 @@
 		007CF99329B994C2009AD75E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 007CF99229B994C2009AD75E /* ContentView.swift */; };
 		007CF99529B994CB009AD75E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 007CF99429B994CB009AD75E /* Assets.xcassets */; };
 		007CF99829B994CB009AD75E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 007CF99729B994CB009AD75E /* Preview Assets.xcassets */; };
+		00DA2A1B29CA251F006DC526 /* DragableImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00DA2A1A29CA251F006DC526 /* DragableImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		007CF99229B994C2009AD75E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		007CF99429B994CB009AD75E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		007CF99729B994CB009AD75E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		00DA2A1A29CA251F006DC526 /* DragableImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragableImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				007CF99029B994C2009AD75E /* PuzzleSnappingApp.swift */,
 				007CF99229B994C2009AD75E /* ContentView.swift */,
+				00DA2A1A29CA251F006DC526 /* DragableImage.swift */,
 				007CF99429B994CB009AD75E /* Assets.xcassets */,
 				007CF99629B994CB009AD75E /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00DA2A1B29CA251F006DC526 /* DragableImage.swift in Sources */,
 				007CF99329B994C2009AD75E /* ContentView.swift in Sources */,
 				007CF99129B994C2009AD75E /* PuzzleSnappingApp.swift in Sources */,
 			);
